@@ -1,1 +1,2 @@
-# EE-322-Design-VI
+#LAB 1 & 2
+
