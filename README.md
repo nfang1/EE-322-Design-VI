@@ -36,11 +36,11 @@ $ uname --help
 $ clear
 $ uname -a
 ```
-![](4.png)
+![](5.png)
 
 ```ssh
 $ ifconfig
 $ ping localhost
 $ netstat
 ```
-![](5.png)
+![](6.png)
