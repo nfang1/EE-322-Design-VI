@@ -1,5 +1,5 @@
 I pledge my honor that I have abided by the Stevens Honor System
-# LAB 1 & 2
+# Lab 1 & 2
 ```ssh
 $ hostname
 $ env
